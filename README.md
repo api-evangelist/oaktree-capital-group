@@ -1,11 +1,41 @@
-# Oaktree Capital Group
+# Oaktree Capital Group (oaktree-capital-group)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Oaktree Capital Group.
+Oaktree Capital Group is a global asset management firm specializing in alternative investment strategies including credit, private equity, real assets, and listed equities.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/oaktree-capital-group/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+
+## Tags
+
+- Asset Management
+- Capital
+- Credit
+- Finance
+- Investment
+- Private Equity
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented for this firm. Updates will be tracked here as developer resources are published.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.oaktree-capital-group.com)
+- [Website](https://www.oaktreecapital.com/)
+- [About](https://www.oaktreecapital.com/about)
+- [Strategies](https://www.oaktreecapital.com/strategies)
+- [Insights](https://www.oaktreecapital.com/insights)
+- [Contact](https://www.oaktreecapital.com/contact-us)
+
+## Maintainers
+
+- **Kin Lane** - kin@apievangelist.com
