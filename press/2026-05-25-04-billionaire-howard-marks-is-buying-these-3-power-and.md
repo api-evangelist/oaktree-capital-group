@@ -1,7 +1,9 @@
 ---
 title: Billionaire Howard Marks Is Buying These 3 Power and ...
 url: https://247wallst.com/investing/2026/04/23/billionaire-howard-marks-is-buying-these-3-power-and-real-asset-stocks-for-the-ai-boom/
-date: '2026-05-25'
+published: '2026-04-23'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Oaktree Capital Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
