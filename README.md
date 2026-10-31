@@ -1,4 +1,4 @@
-# Oaktree Capital Group (oaktree-capital-group)
+# Oaktree Capital Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,40 +66,77 @@
 
 Oaktree Capital Group is a global asset management firm specializing in alternative investment strategies including credit, private equity, real assets, and listed equities.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/oaktree-capital-group/refs/heads/main/apis.yml)
+**Areas:** Asset Management · Capital · Credit · Finance · Investment · Private Equity · Fortune 1000
 
-## Scope
+## Oaktree Capital Group on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Oaktree Capital Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/oaktree-capital-group/](https://apis.io/providers/oaktree-capital-group/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Asset Management
-- Capital
-- Credit
-- Finance
-- Investment
-- Private Equity
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Oaktree Capital Group Domain Security](https://apis.io/security/oaktree-capital-group/oaktree-capital-group-domain-security/)
 
-No public APIs have been documented for this firm. Updates will be tracked here as developer resources are published.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.oaktreecapital.com/)
-- [About](https://www.oaktreecapital.com/about)
-- [Strategies](https://www.oaktreecapital.com/strategies)
-- [Insights](https://www.oaktreecapital.com/insights)
-- [Contact](https://www.oaktreecapital.com/contact-us)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/oaktree-capital-group/](https://apis.io/providers/oaktree-capital-group/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Oaktree Capital Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/oaktree-capital-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
